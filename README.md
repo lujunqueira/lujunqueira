@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hey%20there!&reversal=true&fontColor=000000&animation=twinkling&textBg=false&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hey%20there!&reversal=true&fontColor=000000&animation=twinkling&textBg=false&fontSize=60)
 
 <h2 align="left">Let's Connect</h2>
 
