@@ -17,6 +17,7 @@ education:
 [
 "Completed: Master's in Communications Design,
 MBA in Business Intelligence and Knowledge Management",
+
 "Currently Pursuing: Data Science Certificate"
 {from: Santa Monica College}
 ]
