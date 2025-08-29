@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20there!&fontSize=90&textAlign=center)
+![header](https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hey%20there!&reversal=true&fontColor=000000&animation=twinkling&textBg=false&fontSize=60)
 
 <h2 align="left">Let's Connect</h2>
 
@@ -24,7 +24,7 @@ MBA in Business Intelligence and Knowledge Management",
 ```
 
 
-<h2> &nbsp; Some Tools I Have Used & Learned</h2>
+<h2>Some Tools I Have Used & Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="40" width="40"/>
