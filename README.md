@@ -15,11 +15,13 @@ or consulting firm where human-centered design meets data.
 
 education: 
 [
-"Completed: Master's in Communications Design,
-MBA in Business Intelligence and Knowledge Management",
+"Completed:
+  Master's in Communications Design,
+  MBA in Business Intelligence and Knowledge Management",
 
-"Currently Pursuing: Data Science Certificate"
-{from: Santa Monica College}
+"Currently Pursuing:
+  Data Science Certificate"
+  {from: Santa Monica College}
 ]
 ```
 
